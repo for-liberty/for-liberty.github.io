@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>تبعیض on برای آزادی</title>
-    <link>http://localhost:1313/tags/%D8%AA%D8%A8%D8%B9%DB%8C%D8%B6/</link>
+    <link>https://for-liberty.github.io/tags/%D8%AA%D8%A8%D8%B9%DB%8C%D8%B6/</link>
     <description>Recent content in تبعیض on برای آزادی</description>
     <image>
       <title>برای آزادی</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://for-liberty.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://for-liberty.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.150.0</generator>
     <language>fa</language>
     <copyright>انتشار مطالب مجاز است.</copyright>
     <lastBuildDate>Wed, 07 Dec 2022 17:16:48 +0330</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%D8%AA%D8%A8%D8%B9%DB%8C%D8%B6/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://for-liberty.github.io/tags/%D8%AA%D8%A8%D8%B9%DB%8C%D8%B6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>چرا به هیچ مذهبی باور ندارم | بخش اول</title>
-      <link>http://localhost:1313/post/why-i-dont-believe-in-any-religion-1/</link>
+      <link>https://for-liberty.github.io/post/why-i-dont-believe-in-any-religion-1/</link>
       <pubDate>Wed, 07 Dec 2022 17:16:48 +0330</pubDate>
-      <guid>http://localhost:1313/post/why-i-dont-believe-in-any-religion-1/</guid>
+      <guid>https://for-liberty.github.io/post/why-i-dont-believe-in-any-religion-1/</guid>
       <description>چطور در بهترین روزهای دین‌داری‌ام، بی‌دین شدم | تبعیض.</description>
     </item>
   </channel>

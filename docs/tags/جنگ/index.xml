@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>جنگ on برای آزادی</title>
-    <link>http://localhost:1313/tags/%D8%AC%D9%86%DA%AF/</link>
+    <link>https://for-liberty.github.io/tags/%D8%AC%D9%86%DA%AF/</link>
     <description>Recent content in جنگ on برای آزادی</description>
     <image>
       <title>برای آزادی</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://for-liberty.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://for-liberty.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.150.0</generator>
     <language>fa</language>
     <copyright>انتشار مطالب مجاز است.</copyright>
     <lastBuildDate>Fri, 01 Nov 2024 10:35:51 +0330</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%D8%AC%D9%86%DA%AF/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://for-liberty.github.io/tags/%D8%AC%D9%86%DA%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>روز حساب</title>
-      <link>http://localhost:1313/post/the-judgement-day/</link>
+      <link>https://for-liberty.github.io/post/the-judgement-day/</link>
       <pubDate>Fri, 01 Nov 2024 10:35:51 +0330</pubDate>
-      <guid>http://localhost:1313/post/the-judgement-day/</guid>
+      <guid>https://for-liberty.github.io/post/the-judgement-day/</guid>
       <description>در جنگ با اسرائیل کدام طرفید؟</description>
     </item>
   </channel>
