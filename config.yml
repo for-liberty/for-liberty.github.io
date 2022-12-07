@@ -1,0 +1,170 @@
+baseURL: "https://for-liberty.github.io/"
+title: برای آزادی
+paginate: 5
+theme: PaperMod
+publishDir: docs
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+#googleAnalytics: placeholder
+#disqusShortname: placeholder
+
+#disableKinds:
+#- taxonomy
+#- term
+  
+  
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: برای آزادی
+    description: حرف‌های خودمونی درباره انقلابمون
+    keywords: [Blog, Portfolio, PaperMod]
+    author: امانوئل
+    # author: ["Me", "You"] # multiple authors
+    images: ["<link or path of image for opengraph, twitter-cards>"]
+    DateFormat: "January 2, 2006"
+    defaultTheme: auto # dark, light
+    disableThemeToggle: false
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: true
+   
+    hidemeta: false
+    hideSummary: false
+    showtoc: true
+    tocopen: false
+  
+    disqusShortname: "for-our-liberty"
+   
+    assets:
+        # disableHLJS: true # to disable highlight.js
+        # disableFingerprinting: true
+        favicon: "assets/fav.png"
+        favicon16x16: "assets/fav.png"
+        favicon32x32: "assets/fav.png"
+        apple_touch_icon: "assets/fav.png"
+        safari_pinned_tab: "assets/fav.png"
+
+    label:
+        text: "خانه"
+        icon: /assets/fav.png
+
+    # profile-mode
+    profileMode:
+        enabled: false # needs to be explicitly set
+        title: ExampleSite
+        subtitle: "This is subtitle"
+        imageUrl: "<img location>"
+        imageWidth: 120
+        imageHeight: 120
+        imageTitle: my image
+        buttons:
+            - name: نوشته‌ها
+              url: posts
+            - name: برچسب‌‌ها
+              url: tags
+
+    # home-info mode
+    homeInfoParams:
+        Title: "برای آزادی"
+        Content: حرف‌های خودمونی درباره انقلابمون
+
+    socialIcons:
+        - name: twitter
+          url: "https://twitter.com/Immanuel_K3nt"
+#        - name: github
+#          url: "https://github.com/"
+#        - name: youtube
+#          url: "https://youtube.com/channel//"
+#        - name: linkedin
+#          url: "https://www.linkedin.com/in//"
+#        - name: telegram
+#          url: ""
+
+    analytics:
+        google:
+        # add env variable GOOGLE_GA
+
+            SiteVerificationTag: "XYZabc"
+        bing:
+            SiteVerificationTag: "XYZabc"
+        yandex:
+            SiteVerificationTag: "XYZabc"
+
+    cover:
+        hidden: true # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+
+#    editPost:
+#        URL: "hhttps://github.com/for-liberty/liberty/tree/main/content"
+#        Text: "پیشنهاد اصلاح" # edit text
+#        appendFilePath: true # to append file path to Edit link
+
+    # for search
+    # https://fusejs.io/api/options.html
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+menu:
+    main:
+        - identifier: categories
+          name: دسته‌بندی
+          url: /categories/
+          weight: 10
+        - identifier: tags
+          name: تگ‌ها
+          url: /tags/
+          weight: 20
+#        - identifier: youtube
+#          name: کانال یوتوب
+#          url: https://youtube.com/channel//
+#          weight: 30
+
+
+
+
+copyright: انتشار مطالب مجاز است.
+defaultContentLanguage: fa
+languages:
+  fa:
+
+    languagedirection: rtl
+    title: برای آزادی
+    weight: 1
+#  en:
+#    menu:
+#      main:
+#          - identifier: categories
+#            name: Categories
+#            url: /categories/
+#            weight: 10
+#          - identifier: tags
+#            name: tags
+#            url: /tags/
+#            weight: 20
+#          - identifier: youtube
+#            name: کانال یوتوب
+#            url: https://youtube.com
+#            weight: 30
+# Read: https://github.com/a
+#    title: برای آزادی
+#    weight: 2

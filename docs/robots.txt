@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://for-liberty.github.io/sitemap.xml
