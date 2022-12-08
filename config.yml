@@ -52,15 +52,15 @@ params:
     assets:
         # disableHLJS: true # to disable highlight.js
         # disableFingerprinting: true
-        favicon: "assets/fav.png"
-        favicon16x16: "assets/fav.png"
-        favicon32x32: "assets/fav.png"
-        apple_touch_icon: "assets/fav.png"
-        safari_pinned_tab: "assets/fav.png"
+        favicon: "/images/fav/fav.png"
+        favicon16x16: "/images/fav/fav16px.png"
+        favicon32x32: "/images/fav/fav32px.png"
+        apple_touch_icon: "/images/fav/fav.png"
+        safari_pinned_tab: "/images/fav/fav.png"
 
     label:
         text: "خانه"
-        icon: /assets/fav.png
+        icon: /images/fav/fav.png
 
     # profile-mode
     profileMode:

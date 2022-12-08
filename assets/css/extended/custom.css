@@ -10,9 +10,10 @@ code {
 }
 blockquote {
  font-size: 1.1em;
- 	box-shadow:  0 0 10px 0 rgba(0, 0, 0, 0.5);
+ 	box-shadow:  0 0 10px 0 rgba(0, 0, 0, 0.0);
  }
-img {
+
+p>img   {
 /* 	flex-shrink: 0;
 	margin: 20px;
 	border: calc(8px + 0.2vw) solid transparent;
@@ -23,3 +24,4 @@ img {
 		*/
 	box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.5);
 }
+
