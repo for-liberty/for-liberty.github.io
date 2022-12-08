@@ -24,4 +24,6 @@ p>img   {
 		*/
 	box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.5);
 }
-
+.twitter-tweet {
+margin: 10px auto 10px;
+}
