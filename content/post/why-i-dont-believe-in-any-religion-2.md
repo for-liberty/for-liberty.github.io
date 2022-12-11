@@ -14,7 +14,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "چطور در بهترین روزهای دین‌داری‌ام، بی‌دین شدم | دینِ حق."
-canonicalURL: "https://for-liberty.github.io/post/why-dont-i-believe-in-any-religion-2"
+canonicalURL: "https://for-liberty.github.io/post/why-i-dont-believe-in-any-religion-2"
 disableHLJS: false # to disable highlightjs
 disableShare: false
 hideSummary: false
@@ -31,7 +31,7 @@ cover:
 ---
 
 توی 
-[نوشتهٔ قبلی](/post/why-dont-i-believe-in-any-religion-1) 
+[نوشتهٔ قبلی](/post/why-i-dont-believe-in-any-religion-1) 
 در خصوص تبعیض و تعارضش با شرف و وجدان انسان‌ها صحبت کردیم. اینکه چطور کسی که خودش رو ذاتا بهتر و برتر از دیگری نمی‌دونه، نمی‌تونه به دینی مثل اسلام باور داشته باشه. باور به اسلام، خودش آغاز تبعیض‌هاست. از زن و مرد گرفته تا آزاده و برده. توی این نوشته، می‌خوایم در خصوص دینِ برحق صحبت کنیم. آیا اصلا امکان شناختن و قبول یه دین به اسم دینِ حق وجود داره یا نه.
 
 ## انتخابِ دینِ حق
