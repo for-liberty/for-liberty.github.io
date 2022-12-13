@@ -4,8 +4,7 @@ date: 2022-12-05T00:51:06+03:30
 # weight: 1
 # aliases: ["/first"]
 tags: [حجاب,انقلاب]
-categories:
-    - انقلاب
+categories: [انقلاب]
 author: "امانوئل"
 # author: ["Me", "You"] # multiple authors
 showToc: true

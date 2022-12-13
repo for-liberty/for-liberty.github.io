@@ -3,9 +3,8 @@ title: "ساده‌ترین روش خرید دلار با ارز دیجیتال"
 date: 2022-12-01T02:56:40+03:30
 # weight: 1
 # aliases: ["/first"]
-tags: [ارز]
-categories: ارزدیجیتال
-    - ارز
+tags: [ارزدیجیتال,کیف پول,دلار]
+categories: [تکنولوژی]
 author: "امانوئل"
 # author: ["Me", "You"] # multiple authors
 showToc: true

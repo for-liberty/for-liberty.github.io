@@ -4,8 +4,7 @@ date: {{ .Date }}
 # weight: 1
 # aliases: ["/first"]
 tags: []
-categories:
-    - وبلاگ
+categories: []
 author: "امانوئل"
 # author: ["Me", "You"] # multiple authors
 showToc: true

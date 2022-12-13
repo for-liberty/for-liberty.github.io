@@ -4,8 +4,7 @@ date: 2022-12-03T12:20:30+03:30
 # weight: 1
 # aliases: ["/first"]
 tags: [انقلاب]
-categories:
-    - انقلاب
+categories: [انقلاب]
 author: "امانوئل"
 # author: ["Me", "You"] # multiple authors
 showToc: true

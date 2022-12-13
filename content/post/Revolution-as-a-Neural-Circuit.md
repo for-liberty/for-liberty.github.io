@@ -3,9 +3,8 @@ title: "انقلاب بمثابه شبکهٔ عصبی"
 date: 2022-11-29T03:09:27+03:30
 # weight: 1
 # aliases: ["/first"]
-tags: [انقلاب,روانشناسی]
-categories: 
-    - انقلاب
+tags: [انقلاب,روان‌شناسی]
+categories: [انقلاب, روان‌شناسی]
 author: "امانوئل"
 # author: ["Me", "You"] # multiple authors
 showToc: true
