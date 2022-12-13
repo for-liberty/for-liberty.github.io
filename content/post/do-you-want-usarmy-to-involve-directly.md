@@ -3,9 +3,8 @@ title: "آیا با حملهٔ نظامیِ آمریکا موافقی؟"
 date: 2022-12-09T00:26:02+03:30
 # weight: 1
 # aliases: ["/first"]
-tags: [انقلاب,آمریکا,حمله]
-categories:
-    - انقلاب
+tags: [انقلاب,آمریکا,حمله نظامی]
+categories: [انقلاب]
 author: "امانوئل"
 # author: ["Me", "You"] # multiple authors
 showToc: true

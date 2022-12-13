@@ -3,9 +3,8 @@ title: "چرا به هیچ مذهبی باور ندارم | بخش دوم"
 date: 2022-12-10T11:47:08+03:30
 # weight: 1
 # aliases: ["/first"]
-tags: [دین,اسلام]
-categories:
-    - دین
+tags: [چرا ناباورم,مذهب,دین حق]
+categories: [مذهب]
 author: "امانوئل"
 # author: ["Me", "You"] # multiple authors
 showToc: true
