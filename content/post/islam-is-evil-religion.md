@@ -11,7 +11,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: true
+comments: false
 description: "به عنوان مسملون، تا حالا فکر کردی شاید در حال پرستش شیطانی؟"
 canonicalURL: "https://for-liberty.github.io/post/islam-is-evil-religion"
 disableHLJS: false # to disable highlightjs
