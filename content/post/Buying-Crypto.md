@@ -12,7 +12,7 @@ TocOpen: true
 draft: false
 hidemeta: false
 comments: false
-description: "چطور با موبایل و تکنولوژی رمزارزها دلار بخریم؟"
+description: "چطور با موبایل و تکنولوژیِ رمزارزها، دلار بخریم؟"
 canonicalURL: https://for-liberty.github.io/post/Buying-Crypto
 disableHLJS: false # to disable highlightjs
 disableShare: false
