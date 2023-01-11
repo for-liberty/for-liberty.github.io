@@ -24,7 +24,7 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: برای آزادی
-    description: حرف‌های خودمونی درباره انقلابمون
+    description: حاوی نظرات و برداشت‌های شخصی، لذا با احتیاط مصرف شود…
     keywords: [Blog, Portfolio, PaperMod]
     author: امانوئل
     # author: ["Me", "You"] # multiple authors
@@ -80,8 +80,8 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "برای آزادی"
-        Content: حرف‌های خودمونی درباره انقلابمون
-
+        Content: حاوی نظرات و برداشت‌های شخصی، لذا با احتیاط مصرف شود…
+        
     socialIcons:
         - name: twitter
           url: "https://twitter.com/Immanuel_K3nt"
