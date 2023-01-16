@@ -11,7 +11,7 @@ showToc: true
 TocOpen: true
 draft: false
 hidemeta: false
-comments: true
+comments: false
 description: "یه رشته توییت جالب در خصوص چرایی چسبیدن به باورها"
 canonicalURL: "https://for-liberty.github.io/post/why-it-is-so-hard-to-change-your-mind"
 disableHLJS: false # to disable highlightjs
