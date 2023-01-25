@@ -12,7 +12,7 @@ TocOpen: true
 draft: false
 hidemeta: false
 comments: false
-description: "چرا من به شاهزاده رضا پهلوی وکالت می‌دهم؟"
+description: "نقدِ من به کمپین «من وکالت نمی‌دهم» و نظرات کاربرانش"
 canonicalURL: "https://for-liberty.github.io/post/prince-reza-pahlavi-is-my-representative"
 disableHLJS: false # to disable highlightjs
 disableShare: false
