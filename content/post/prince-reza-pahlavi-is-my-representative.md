@@ -1,5 +1,5 @@
 ---
-title: "وکالت دادن یا ندادن، مسأله این است!"
+title: "چرا کمپینِ «من وکالت نمی‌دهم» اشتباه بود!"
 date: 2023-01-25T13:02:34+03:30
 # weight: 1
 # aliases: ["/first"]
@@ -12,7 +12,7 @@ TocOpen: true
 draft: false
 hidemeta: false
 comments: false
-description: "نقدِ من به کمپین «من وکالت نمی‌دهم» و نظرات کاربرانش"
+description: "نقدِ من به کمپین «من وکالت نمی‌دهم» و نظراتشان"
 canonicalURL: "https://for-liberty.github.io/post/prince-reza-pahlavi-is-my-representative"
 disableHLJS: false # to disable highlightjs
 disableShare: false
@@ -253,4 +253,4 @@ ___
 
 
 
-بامداد
+
