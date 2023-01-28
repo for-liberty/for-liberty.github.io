@@ -70,13 +70,13 @@ cover:
 
 اول از همه، بیشتر از یک ماه قبل از این جریان، شاهزاده توییتی زده بود و دعوت کرده بود تا افراد و گروه‌ها و احزاب بیان تا با هم متحد بشن و صدای مردم داخل ایران باشند.
 
-{{< tweet user="PahlaviReza" id="1602348176094150657" >}}
-___
+[![Tweet](/images/prince-reza-pahlavi-is-my-representative/01.png#center)](https://twitter.com/PahlaviReza/status/1602348176094150657)
+
 
 یه پیام دیگه هم چند روز پیش داده بود.
 
-{{< tweet user="PahlaviReza" id="1616836536175042563" >}}
-___
+[![Tweet](/images/prince-reza-pahlavi-is-my-representative/02.png#center)](https://twitter.com/PahlaviReza/status/1616836536175042563)
+
 
 واقعا شما تک‌روی از این توییت‌ها برداشت می‌کنی؟ دیگه باید به چه زبونی بگه که آمادهٔ همکاریه؟ وقتی می‌بینه مردم اینجا کُشته و شکنجه می‌شن، واقعا چرا باید بیشتر منتظر بشه؟ البته باید اضافه کنم که راه رو برای همکاری نبسته، و گفته همچنان آمادهٔ همکاری‌ام.
 
@@ -134,21 +134,21 @@ ___
 
 این توییت‌ها هم نکات خوبی رو عنوان می‌کنند.
 
-{{< tweet user="J4ISGTJfTZBiU45" id="1618528723334205440" >}}
-___
-{{< tweet user="gholamhoseiny" id="1618512073352425472" >}}
-___
-{{< tweet user="BehrangBabak" id="1618513575810838528" >}}
-___
-{{< tweet user="sangtarash_azad" id="1616682383553757186" >}}
-___
+[![Tweet](/images/prince-reza-pahlavi-is-my-representative/03.png#center)](https://twitter.com/J4ISGTJfTZBiU45/status/1618528723334205440)
+
+[![Tweet](/images/prince-reza-pahlavi-is-my-representative/04.png#center)](https://twitter.com/gholamhoseiny/status/1618512073352425472)
+
+[![Tweet](/images/prince-reza-pahlavi-is-my-representative/05.png#center)](https://twitter.com/BehrangBabak/status/1618513575810838528)
+
+[![Tweet](/images/prince-reza-pahlavi-is-my-representative/06.png#center)](https://twitter.com/sangtarash_azad/status/1616682383553757186)
+
 
 این رو هم در نظر بگیریم که از اتفاق این شرط، مثل یه صافی عمل کرد، و یه سری که پی منافع خودشون بودند، بدون اینکه کوچکترین اهمیتی برای ایران و تمامیت ارضیش قائل باشند، صداشون به آسمون هفتم بلند شد. و خب مردم اون‌ها رو شناختند. 
 
 استارت این موضوع رو یه نفر زد که از اتفاق با مغلطه می‌خواست از زیر این شرط در بره چرا که طبق اسنادی که کاربران توی نظرات این توییت بهش اشاره کردند، با این شرط به کل مخالف بود. خودتون توییت و نظرات مردم رو ببینید:
 
-{{< tweet user="IranIntl" id="1617248897339883523" >}}
-___
+[![Tweet](/images/prince-reza-pahlavi-is-my-representative/07.png#center)](https://twitter.com/IranIntl/status/1617248897339883523)
+
 
 حالا ما بیایم همین استدلال غلط رو با عنوان مخالفت با شاهزاده ازش استفاده کنیم، نشونه‌ای غیر از نیست که از کسانی‌که به تمامیت ارضی ایران اعتقاد ندارند بازی خوردیم.
 
@@ -171,22 +171,22 @@ ___
 همین موضوعات به ظاهر ساده باعث میشه تا سازندگان اپ‌ها، مثل اینستاگرام، تلگرام و واتساپ برای جذب مردم، تموم تلاششون رو کنند که ثبت‌نام به راحتی وارد کردن شماره باشه. حتی خوندن پیامکی که برای ورود لازمه معمولا خودکار انجام میشه.
 
 خلاصه که قیاس خیلی اشتباهی بود.
-____
+
 
 یه قیاسِ منطقی‌تر استفاده از رای‌گیری و مقایسهٔ درصد آراست. اگه جامعهٔ آماریِ گسترده‌ای وجود داشته باشه، می‌شه امیدوار بود که نتایجش، بازتاب عینی در خصوص کل جمعیت داره. البته باز برمی‌گرده به جامعهٔ هدف. 
 
-مثلا این نظرسنجی روی تلگرام رو [اینجا](https://t.me/persianbloomberg/11756) ببینید:
+مثلا این نظرسنجی روی تلگرام رو ببینید:
 
-![Poll abot your representative](/images/prince-reza-pahlavi-is-my-representative/1.png#center)
+[![Poll about your representative](/images/prince-reza-pahlavi-is-my-representative/08.png#center)](https://t.me/persianbloomberg/11756)
 
 تلگرام از این جهت خوبه،‌ که با وضع افتضاحِ نت، باز هم یه سری پروکسی‌ها جواب می‌دن، و مردم بیشتری ازش استفاده می‌کنند چون عامه‌پسندتر از بقیهٔ شبکه‌هاست. 
 
 البته نظرسنجی‌های توییتری هم کم‌وبیش نتایج مشابهی رو ارائه می‌دن:
 
-{{< tweet user="SirAleQthegreat" id="1616483664694583297" >}}
-___
-{{< tweet user="aziazi2020" id="1616892209822851074" >}}
-___
+[![Tweet](/images/prince-reza-pahlavi-is-my-representative/09.png#center)](https://twitter.com/SirAleQthegreat/status/1616483664694583297)
+
+[![Tweet](/images/prince-reza-pahlavi-is-my-representative/10.png#center)](https://twitter.com/aziazi2020/status/1616892209822851074)
+
 
 ## ۷) ما به عقب برنمی‌گردیم
 
@@ -208,42 +208,42 @@ ___
 
 ولی مخالفان شاهزاده که بعضی‌هاشون خودشون رو اپوزیسیون می‌دونند، ترسی از به‌کار بردن این نوع ادبیات ندارند. مثل سگ خوندن طرفداران شاهزاده توسط *محمدرضا نیکفر*
 
-{{< tweet user="MR_Nikfar" id="1618192252421173252" >}}
-___
+[![Tweet](/images/prince-reza-pahlavi-is-my-representative/11.png#center)](https://twitter.com/MR_Nikfar/status/1618192252421173252)
+
 
 
 یا فحاشی‌های *لیلی گلستان* 
 
-{{< tweet user="gh0lch0magh" id="1616857208284659713" >}}
-___
+[![Tweet](/images/prince-reza-pahlavi-is-my-representative/12.png#center)](https://twitter.com/gh0lch0magh/status/1616857208284659713)
+
 یا حرف‌های زنندهٔ *لامعی*
 
-{{< tweet user="behzadmehrani" id="1617536041409478656" >}}
-___
+[![Tweet](/images/prince-reza-pahlavi-is-my-representative/13.png#center)](https://twitter.com/behzadmehrani/status/1617536041409478656)
+
 یا *شادی امین* "فعالِ حقوق بشر" که طرفداران رضا پهلوی رو گله خطاب می‌کنه
 
-{{< tweet user="pejwakehambaste" id="1617486794680827904" >}}
-___
+[![Tweet](/images/prince-reza-pahlavi-is-my-representative/14.png#center)](https://twitter.com/pejwakehambaste/status/1617486794680827904)
+
 یا این کاربرهای شناخته‌شدهٔ توییتری که مخالف شاهزاده هستند
 
-{{< tweet user="massoudsalari" id="1616781032912461824" >}}
-___
-{{< tweet user="SGhasseminejad" id="1618004455781466119" >}}
-___
+[![Tweet](/images/prince-reza-pahlavi-is-my-representative/15.png#center)](https://twitter.com/massoudsalari/status/1616781032912461824)
+
+[![Tweet](/images/prince-reza-pahlavi-is-my-representative/16.png#center)](https://twitter.com/SGhasseminejad/status/1618004455781466119)
+
 و نمونه‌های دیگه که کم نیستند. 
 
 دوم اینکه، بعضی‌ها می‌گن شاهزاده باید از این آدم‌های فحاش اعلام برائت کنه. حرف شما درست و منطقیه، فقط موضوع اینه که شاهزاده به کرّات این کار رو کرده و می‌کنه. واقعا دیگه چیکار می‌تونه انجام بده؟
 
-{{< tweet user="PahlaviReza" id="1460933790763737091" >}}
-___
+[![Tweet](/images/prince-reza-pahlavi-is-my-representative/17.png#center)](https://twitter.com/PahlaviReza/status/1460933790763737091)
+
 خلاصه، اگه قرار باشه، از نظر میزان و سطح ادب هم بسنجیم، شاهزاده همیشه متین، باادب و احترام برخورد کرده، و مدام از طرفدارهاش خواسته که در بحث‌ها نزاکت رو رعایت کنند. اما نام‌های شناخته‌شدهٔ طرفِ مقابل، مثل اینکه هیچ خط قرمزی ندارند.
 
 ## ۹) این کار باعث تفرقه شد
 
 ما باید برای پیروزی برنامه داشته باشیم، در غیر این‌صورت خیابون تبدیل می‌شه به محل نزاع و فرسوده شدنِ مردم. بالاخره باید یه نفر یا گروه پا پیش بگذاره، و از طرف ما شروع به صحبت با کشورها و دیپلمات‌های خارجی بکنه. این حرکت شاهزاده، نه فقط ایجاد تفرقه نمی‌کنه، بلکه یه حرکت رو به جلو برای انقلابه و ما رو وارد فاز جدید می‌کنه. همچنین دیگر مخالفان جمهوری اسلامی رو وادار می‌کنه که برای عقب نموندن، یه حرکتی انجام بدن. وگرنه جمهوری اسلامی تا ابد سر جاش می‌مونه. این رشته توییت موضوع رو قشنگ توضیح داده.
 
-{{< tweet user="ebrahimi_mazyar" id="1617873640456081409" >}}
-___
+[![Tweet](/images/prince-reza-pahlavi-is-my-representative/18.png#center)](https://twitter.com/ebrahimi_mazyar/status/1617873640456081409)
+
 خلاصه، اگه هویت شما، نه در مخالفت با دیگران، بلکه با فعالیت‌هاتون در جهت پیشبرد این انقلاب تعریف می‌شه، به جای سنگ‌اندازی جلوی پای نمایندهٔ بخشِ بزرگی از مردم، شما هم نماینده‌تون رو مشخص کنید، تا با همکاریِ هم بتونیم از جمهوری اسلامی عبور کنیم.
 
 
@@ -253,15 +253,15 @@ ___
 
 *بامداد اعتماد*، توی این رشته توییت، خیلی زیبا توضیح داده که چرا برای کشوری مثل ما، سلطنت مشروطه، گزینهٔ مناسب و امن‌تریه.
 
-{{< tweet user="BamdadEtemad" id="1595687925739462656" >}}
-___
+[![Tweet](/images/prince-reza-pahlavi-is-my-representative/19.png#center)](https://twitter.com/BamdadEtemad/status/1595687925739462656)
+
 
 چه خوشمون بیاد چه نیاد، شاهزاده از نظر محبوبیت و شناخت بین تمام گروه‌ها و افرادی که خودشون رو مخالف جمهوری اسلامی می‌دونند، ردهٔ بالاتری داره. نظرسنجی‌ها و آمار هم تایید کنندهٔ این موضوع هستند. از مرکز شهرها تا دورافتاده‌ترین روستاها همه شاهزاده رو می‌شناسند.
 
 «تحلیل شبکهٔ بازنشرهای توییت‌‌ها» با هشتگ «من وکالت می‌دهم» و «من وکالت نمی‌دهم» هم جالب توجه بود. این تصویر نشون می‌ده که چطور ارتش سایبری و مجاهدین خلق هم همگام با هشتگ «من وکالت نمی‌دهم» از فرصت استفاده کردند تا به هدفشون که تفرقه‌ست برسند.
 
 
-{{< tweet user="mh_rahbari1" id="1616884473794019331" >}}
+[![Tweet](/images/prince-reza-pahlavi-is-my-representative/20.png#center)](https://twitter.com/mh_rahbari1/status/1616884473794019331)
 
 
 
