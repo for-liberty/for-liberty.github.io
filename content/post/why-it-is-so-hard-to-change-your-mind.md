@@ -62,5 +62,7 @@ ___
 > چگونه به تاول‌های پاهایم بگویم تمام مسیری که آمده‌ایم اشتباه بوده؟!
 
 ___
-{{< tweet user="PooyaBagherzade" id="1614605215877005312" >}}
+
+[![Tweet](/images/why-it-is-so-hard-to-change-your-mind/01.png#center)](https://twitter.com/PooyaBagherzade/status/1614605215877005312)
+
 
