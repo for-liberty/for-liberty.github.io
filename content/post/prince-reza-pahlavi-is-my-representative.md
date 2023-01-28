@@ -220,7 +220,7 @@ ___
 
 [![Tweet](/images/prince-reza-pahlavi-is-my-representative/13.png#center)](https://twitter.com/behzadmehrani/status/1617536041409478656)
 
-یا *شادی امین* "فعالِ حقوق بشر" که طرفداران رضا پهلوی رو گله خطاب می‌کنه
+یا *شادی امین* "فعالِ حقوق بشر" که طرفداران شاهزاده رضا پهلوی رو گله خطاب می‌کنه
 
 [![Tweet](/images/prince-reza-pahlavi-is-my-representative/14.png#center)](https://twitter.com/pejwakehambaste/status/1617486794680827904)
 
