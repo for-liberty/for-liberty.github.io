@@ -132,6 +132,10 @@ cover:
 {{< youtube nvQW7PDb4QA >}}
 ___
 
+این مصاحبه از ایرج مصداقی اطلاعات خیلی تکان‌دهنده‌ای در دل خودش داره.
+
+{{< youtube BOZaXKfuTmI >}}
+
 این توییت‌ها هم نکات خوبی رو عنوان می‌کنند.
 
 [![Tweet](/images/prince-reza-pahlavi-is-my-representative/03.png#center)](https://twitter.com/J4ISGTJfTZBiU45/status/1618528723334205440)
