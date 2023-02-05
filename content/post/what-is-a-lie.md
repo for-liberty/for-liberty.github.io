@@ -11,7 +11,7 @@ showToc: true
 TocOpen: true
 draft: false
 hidemeta: false
-comments: true
+comments: false
 description: "دروغ، از نقطه‌نظر اخلاقی"
 canonicalURL: "https://for-liberty.github.io/post/what-is-a-lie"
 disableHLJS: false # to disable highlightjs
