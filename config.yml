@@ -124,16 +124,26 @@ params:
         threshold: 0.4
         minMatchCharLength: 0
         keys: ["title", "permalink", "summary", "content"]
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
 menu:
     main:
+        - identifier: search
+          name: جستجو
+          url: /search
+          weight: 10
         - identifier: categories
           name: دسته‌بندی
           url: /categories/
-          weight: 10
+          weight: 20
         - identifier: tags
           name: تگ‌ها
           url: /tags/
-          weight: 20
+          weight: 30
+
 #        - identifier: youtube
 #          name: کانال یوتوب
 #          url: https://youtube.com/channel//
