@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>سیاست on برای آزادی</title>
+    <link>http://localhost:1313/categories/%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA/</link>
+    <description>Recent content in سیاست on برای آزادی</description>
+    <image>
+      <title>برای آزادی</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>fa</language>
+    <copyright>انتشار مطالب مجاز است.</copyright>
+    <lastBuildDate>Thu, 16 Jan 2025 13:42:58 +0330</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>نگاهی دوباره به طیف‌های سیاسی</title>
+      <link>http://localhost:1313/post/rethinking-the-political-spectrum/</link>
+      <pubDate>Thu, 16 Jan 2025 13:42:58 +0330</pubDate>
+      <guid>http://localhost:1313/post/rethinking-the-political-spectrum/</guid>
+      <description>چرا نگاه فعلی به طیف‌های سیاسی غلط‌انداز است؟</description>
+    </item>
+  </channel>
+</rss>
