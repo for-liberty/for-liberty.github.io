@@ -2,78 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on برای آزادی</title>
-    <link>https://for-liberty.github.io/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on برای آزادی</description>
     <image>
-      <url>https://for-liberty.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://for-liberty.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>برای آزادی</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.150.0</generator>
     <language>fa</language>
     <copyright>انتشار مطالب مجاز است.</copyright>
-    <lastBuildDate>Fri, 01 Nov 2024 10:35:51 +0330</lastBuildDate><atom:link href="https://for-liberty.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>جنگ</title>
-      <link>https://for-liberty.github.io/categories/%D8%AC%D9%86%DA%AF/</link>
-      <pubDate>Fri, 01 Nov 2024 10:35:51 +0330</pubDate>
-      
-      <guid>https://for-liberty.github.io/categories/%D8%AC%D9%86%DA%AF/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 09 Oct 2024 14:15:05 +0330</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>اسرائیل</title>
-      <link>https://for-liberty.github.io/categories/%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84/</link>
+      <link>http://localhost:1313/categories/%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84/</link>
       <pubDate>Wed, 09 Oct 2024 14:15:05 +0330</pubDate>
-      
-      <guid>https://for-liberty.github.io/categories/%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84/</guid>
+      <guid>http://localhost:1313/categories/%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>انقلاب</title>
-      <link>https://for-liberty.github.io/categories/%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8/</link>
+      <link>http://localhost:1313/categories/%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8/</link>
       <pubDate>Wed, 15 Feb 2023 13:27:55 +0330</pubDate>
-      
-      <guid>https://for-liberty.github.io/categories/%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8/</guid>
+      <guid>http://localhost:1313/categories/%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>عمومی</title>
-      <link>https://for-liberty.github.io/categories/%D8%B9%D9%85%D9%88%D9%85%DB%8C/</link>
+      <link>http://localhost:1313/categories/%D8%B9%D9%85%D9%88%D9%85%DB%8C/</link>
       <pubDate>Mon, 06 Feb 2023 00:54:28 +0330</pubDate>
-      
-      <guid>https://for-liberty.github.io/categories/%D8%B9%D9%85%D9%88%D9%85%DB%8C/</guid>
+      <guid>http://localhost:1313/categories/%D8%B9%D9%85%D9%88%D9%85%DB%8C/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>روان‌شناسی</title>
-      <link>https://for-liberty.github.io/categories/%D8%B1%D9%88%D8%A7%D9%86%D8%B4%D9%86%D8%A7%D8%B3%DB%8C/</link>
+      <link>http://localhost:1313/categories/%D8%B1%D9%88%D8%A7%D9%86%D8%B4%D9%86%D8%A7%D8%B3%DB%8C/</link>
       <pubDate>Fri, 13 Jan 2023 12:56:52 +0330</pubDate>
-      
-      <guid>https://for-liberty.github.io/categories/%D8%B1%D9%88%D8%A7%D9%86%D8%B4%D9%86%D8%A7%D8%B3%DB%8C/</guid>
+      <guid>http://localhost:1313/categories/%D8%B1%D9%88%D8%A7%D9%86%D8%B4%D9%86%D8%A7%D8%B3%DB%8C/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>مذهب</title>
-      <link>https://for-liberty.github.io/categories/%D9%85%D8%B0%D9%87%D8%A8/</link>
+      <link>http://localhost:1313/categories/%D9%85%D8%B0%D9%87%D8%A8/</link>
       <pubDate>Fri, 13 Jan 2023 12:56:52 +0330</pubDate>
-      
-      <guid>https://for-liberty.github.io/categories/%D9%85%D8%B0%D9%87%D8%A8/</guid>
+      <guid>http://localhost:1313/categories/%D9%85%D8%B0%D9%87%D8%A8/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>تکنولوژی</title>
-      <link>https://for-liberty.github.io/categories/%D8%AA%DA%A9%D9%86%D9%88%D9%84%D9%88%DA%98%DB%8C/</link>
+      <link>http://localhost:1313/categories/%D8%AA%DA%A9%D9%86%D9%88%D9%84%D9%88%DA%98%DB%8C/</link>
       <pubDate>Thu, 01 Dec 2022 02:56:40 +0330</pubDate>
-      
-      <guid>https://for-liberty.github.io/categories/%D8%AA%DA%A9%D9%86%D9%88%D9%84%D9%88%DA%98%DB%8C/</guid>
+      <guid>http://localhost:1313/categories/%D8%AA%DA%A9%D9%86%D9%88%D9%84%D9%88%DA%98%DB%8C/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

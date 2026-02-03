@@ -2,78 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>مذهب on برای آزادی</title>
-    <link>https://for-liberty.github.io/tags/%D9%85%D8%B0%D9%87%D8%A8/</link>
+    <link>http://localhost:1313/tags/%D9%85%D8%B0%D9%87%D8%A8/</link>
     <description>Recent content in مذهب on برای آزادی</description>
     <image>
-      <url>https://for-liberty.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://for-liberty.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>برای آزادی</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.150.0</generator>
     <language>fa</language>
     <copyright>انتشار مطالب مجاز است.</copyright>
-    <lastBuildDate>Fri, 13 Jan 2023 12:56:52 +0330</lastBuildDate><atom:link href="https://for-liberty.github.io/tags/%D9%85%D8%B0%D9%87%D8%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Jan 2023 12:56:52 +0330</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%D9%85%D8%B0%D9%87%D8%A8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>هوش و دین در برابر یکدیگر</title>
-      <link>https://for-liberty.github.io/post/intelligence-and-religion/</link>
+      <link>http://localhost:1313/post/intelligence-and-religion/</link>
       <pubDate>Fri, 13 Jan 2023 12:56:52 +0330</pubDate>
-      
-      <guid>https://for-liberty.github.io/post/intelligence-and-religion/</guid>
+      <guid>http://localhost:1313/post/intelligence-and-religion/</guid>
       <description>چرا فکر می‌کنم مذهبی‌ها باهوش نیستند.</description>
     </item>
-    
     <item>
       <title>اسلام، دینِ شیطان؟</title>
-      <link>https://for-liberty.github.io/post/islam-is-evil-religion/</link>
+      <link>http://localhost:1313/post/islam-is-evil-religion/</link>
       <pubDate>Wed, 04 Jan 2023 14:50:56 +0330</pubDate>
-      
-      <guid>https://for-liberty.github.io/post/islam-is-evil-religion/</guid>
+      <guid>http://localhost:1313/post/islam-is-evil-religion/</guid>
       <description>به عنوان مسملون، تا حالا فکر کردی شاید در حال پرستش شیطانی؟</description>
     </item>
-    
     <item>
       <title>در باب اسلام</title>
-      <link>https://for-liberty.github.io/post/about-islam/</link>
+      <link>http://localhost:1313/post/about-islam/</link>
       <pubDate>Fri, 16 Dec 2022 14:15:05 +0330</pubDate>
-      
-      <guid>https://for-liberty.github.io/post/about-islam/</guid>
+      <guid>http://localhost:1313/post/about-islam/</guid>
       <description>یه بررسی کلی از اسلام و پلیدی‌هاش.</description>
     </item>
-    
     <item>
       <title>دنیای فراطبیعی</title>
-      <link>https://for-liberty.github.io/post/supernatural-world/</link>
+      <link>http://localhost:1313/post/supernatural-world/</link>
       <pubDate>Tue, 13 Dec 2022 10:07:37 +0330</pubDate>
-      
-      <guid>https://for-liberty.github.io/post/supernatural-world/</guid>
+      <guid>http://localhost:1313/post/supernatural-world/</guid>
       <description>دنیای ماورایی چیست و کجاست؟</description>
     </item>
-    
     <item>
       <title>چرا به هیچ مذهبی باور ندارم | بخش سوم</title>
-      <link>https://for-liberty.github.io/post/why-i-dont-believe-in-any-religion-3/</link>
+      <link>http://localhost:1313/post/why-i-dont-believe-in-any-religion-3/</link>
       <pubDate>Sun, 11 Dec 2022 10:54:52 +0330</pubDate>
-      
-      <guid>https://for-liberty.github.io/post/why-i-dont-believe-in-any-religion-3/</guid>
+      <guid>http://localhost:1313/post/why-i-dont-believe-in-any-religion-3/</guid>
       <description>چطور در بهترین روزهای دین‌داری‌ام، بی‌دین شدم | قمارباز پاسکال.</description>
     </item>
-    
     <item>
       <title>چرا به هیچ مذهبی باور ندارم | بخش دوم</title>
-      <link>https://for-liberty.github.io/post/why-i-dont-believe-in-any-religion-2/</link>
+      <link>http://localhost:1313/post/why-i-dont-believe-in-any-religion-2/</link>
       <pubDate>Sat, 10 Dec 2022 11:47:08 +0330</pubDate>
-      
-      <guid>https://for-liberty.github.io/post/why-i-dont-believe-in-any-religion-2/</guid>
+      <guid>http://localhost:1313/post/why-i-dont-believe-in-any-religion-2/</guid>
       <description>چطور در بهترین روزهای دین‌داری‌ام، بی‌دین شدم | دینِ حق.</description>
     </item>
-    
     <item>
       <title>چرا به هیچ مذهبی باور ندارم | بخش اول</title>
-      <link>https://for-liberty.github.io/post/why-i-dont-believe-in-any-religion-1/</link>
+      <link>http://localhost:1313/post/why-i-dont-believe-in-any-religion-1/</link>
       <pubDate>Wed, 07 Dec 2022 17:16:48 +0330</pubDate>
-      
-      <guid>https://for-liberty.github.io/post/why-i-dont-believe-in-any-religion-1/</guid>
+      <guid>http://localhost:1313/post/why-i-dont-believe-in-any-religion-1/</guid>
       <description>چطور در بهترین روزهای دین‌داری‌ام، بی‌دین شدم | تبعیض.</description>
     </item>
-    
   </channel>
 </rss>

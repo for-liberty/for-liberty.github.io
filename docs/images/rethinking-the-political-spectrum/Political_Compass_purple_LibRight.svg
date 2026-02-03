@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1400">
+	<defs>
+		<pattern id="grid" viewBox="0,0,50.6,50.6" width="5%" height="5%">
+			<rect width="50.55" height="50.55" fill="none" stroke="#b8b8b8" stroke-width="4"/>
+		</pattern>
+	</defs>
+
+	<rect x="194" y="194" width="505" height="505" fill="#ff7575"/>
+	<rect x="700" y="194" width="505" height="505" fill="#42aaff"/>
+	<rect x="194" y="700" width="505" height="505" fill="#9aed97"/>
+	<rect x="700" y="700" width="505" height="505" fill="#c09aec"/>
+
+	<rect x="194" y="194" width="1012" height="1012" fill="url(#grid)" stroke="#b8b8b8" stroke-width="4"/>
+	<path d="M192,700 h1016 M700,192 v1016" stroke="#010101" stroke-width="5"/>
+
+	<g font-weight="bold" font-size="48px" font-family="Arial" fill="#666">
+		<switch><text x="700" y="185" text-anchor="middle" id="trsvg5-es" systemLanguage="es"><tspan id="trsvg1-es">Autoritario</tspan></text><text x="700" y="185" text-anchor="middle" id="trsvg5"><tspan id="trsvg1">Authoritarian</tspan></text></switch>
+		<switch><text x="700" y="1248.64" text-anchor="middle" id="trsvg6-es" systemLanguage="es"><tspan id="trsvg2-es">Libertario</tspan></text><text x="700" y="1248.64" text-anchor="middle" id="trsvg6"><tspan id="trsvg2">Libertarian</tspan></text></switch>
+		<switch><text x="180" y="718.26" text-anchor="end" id="trsvg7-es" systemLanguage="es"><tspan id="trsvg3-es">Izq.</tspan></text><text x="180" y="718.26" text-anchor="end" id="trsvg7"><tspan id="trsvg3">Left</tspan></text></switch>
+		<switch><text x="1215" y="718.26" text-anchor="start" id="trsvg8-es" systemLanguage="es"><tspan id="trsvg4-es">Der.</tspan></text><text x="1215" y="718.26" text-anchor="start" id="trsvg8"><tspan id="trsvg4">Right</tspan></text></switch>
+	</g>
+</svg>

@@ -2,42 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>روان‌شناسی on برای آزادی</title>
-    <link>https://for-liberty.github.io/tags/%D8%B1%D9%88%D8%A7%D9%86%D8%B4%D9%86%D8%A7%D8%B3%DB%8C/</link>
+    <link>http://localhost:1313/tags/%D8%B1%D9%88%D8%A7%D9%86%D8%B4%D9%86%D8%A7%D8%B3%DB%8C/</link>
     <description>Recent content in روان‌شناسی on برای آزادی</description>
     <image>
-      <url>https://for-liberty.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://for-liberty.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>برای آزادی</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.150.0</generator>
     <language>fa</language>
     <copyright>انتشار مطالب مجاز است.</copyright>
-    <lastBuildDate>Fri, 13 Jan 2023 12:56:52 +0330</lastBuildDate><atom:link href="https://for-liberty.github.io/tags/%D8%B1%D9%88%D8%A7%D9%86%D8%B4%D9%86%D8%A7%D8%B3%DB%8C/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Jan 2023 12:56:52 +0330</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%D8%B1%D9%88%D8%A7%D9%86%D8%B4%D9%86%D8%A7%D8%B3%DB%8C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>هوش و دین در برابر یکدیگر</title>
-      <link>https://for-liberty.github.io/post/intelligence-and-religion/</link>
+      <link>http://localhost:1313/post/intelligence-and-religion/</link>
       <pubDate>Fri, 13 Jan 2023 12:56:52 +0330</pubDate>
-      
-      <guid>https://for-liberty.github.io/post/intelligence-and-religion/</guid>
+      <guid>http://localhost:1313/post/intelligence-and-religion/</guid>
       <description>چرا فکر می‌کنم مذهبی‌ها باهوش نیستند.</description>
     </item>
-    
     <item>
       <title>دنیای فراطبیعی</title>
-      <link>https://for-liberty.github.io/post/supernatural-world/</link>
+      <link>http://localhost:1313/post/supernatural-world/</link>
       <pubDate>Tue, 13 Dec 2022 10:07:37 +0330</pubDate>
-      
-      <guid>https://for-liberty.github.io/post/supernatural-world/</guid>
+      <guid>http://localhost:1313/post/supernatural-world/</guid>
       <description>دنیای ماورایی چیست و کجاست؟</description>
     </item>
-    
     <item>
       <title>انقلاب بمثابه شبکهٔ عصبی</title>
-      <link>https://for-liberty.github.io/post/revolution-as-a-neural-circuit/</link>
+      <link>http://localhost:1313/post/revolution-as-a-neural-circuit/</link>
       <pubDate>Tue, 29 Nov 2022 03:09:27 +0330</pubDate>
-      
-      <guid>https://for-liberty.github.io/post/revolution-as-a-neural-circuit/</guid>
+      <guid>http://localhost:1313/post/revolution-as-a-neural-circuit/</guid>
       <description>پروسه انقلاب با نگاهی به ذهن</description>
     </item>
-    
   </channel>
 </rss>

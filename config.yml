@@ -1,6 +1,6 @@
 baseURL: "https://for-liberty.github.io/"
 title: برای آزادی
-paginate: 5
+pagination.pagerSize: 5
 theme: PaperMod
 publishDir: docs
 
@@ -84,7 +84,7 @@ params:
         
     socialIcons:
         - name: twitter
-          url: "https://twitter.com/Immanuel_K3nt"
+          url: "https://x.com/ShahinShahDoost"
 #        - name: github
 #          url: "https://github.com/"
 #        - name: youtube
@@ -92,7 +92,7 @@ params:
 #        - name: linkedin
 #          url: "https://www.linkedin.com/in//"
         - name: telegram
-          url: "https://t.me/Immanuel_K3nt"
+          url: "https://t.me/ShahinShahDoost"
 #        - name: email
 #          url: "mailto:"
 
