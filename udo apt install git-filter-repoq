@@ -1,0 +1,800 @@
+[33mcommit 341ca73572450dd86e31c733040e323846937877[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author:     your-github-username <12345678+username@users.noreply.github.com>
+AuthorDate: Wed Dec 7 10:37:15 2022 +0330
+Commit:     your-github-username <12345678+username@users.noreply.github.com>
+CommitDate: Wed Dec 7 10:37:15 2022 +0330
+
+    Fixing config#5
+
+[33mcommit 38d403a676ba60a90a0d52f38435f74d1a197b24[m
+Merge: f948b28 d52a9b2
+Author:     anonymous <anonymous@users.noreply.github.com>
+AuthorDate: Tue Feb 3 11:14:05 2026 +0330
+Commit:     anonymous <anonymous@users.noreply.github.com>
+CommitDate: Tue Feb 3 11:14:05 2026 +0330
+
+    Merge branch 'main' of https://github.com/for-liberty/for-liberty.github.io
+
+[33mcommit f948b2806937b19301d4a5255f5a65b8d15a0a6c[m
+Author:     anonymous <anonymous@users.noreply.github.com>
+AuthorDate: Tue Feb 3 11:11:49 2026 +0330
+Commit:     anonymous <anonymous@users.noreply.github.com>
+CommitDate: Tue Feb 3 11:11:49 2026 +0330
+
+    Fixing config#3
+
+[33mcommit d52a9b285577f312b0402a63a99662b72faea5ea[m
+Author:     for-liberty <119358171+for-liberty@users.noreply.github.com>
+AuthorDate: Tue Feb 3 11:09:44 2026 +0330
+Commit:     GitHub <noreply@github.com>
+CommitDate: Tue Feb 3 11:09:44 2026 +0330
+
+    Update files
+
+[33mcommit 337ee24440f49f4fdb40186d5e61eab9a805d565[m
+Author:     for-liberty <119358171+for-liberty@users.noreply.github.com>
+AuthorDate: Tue Feb 3 11:07:33 2026 +0330
+Commit:     GitHub <noreply@github.com>
+CommitDate: Tue Feb 3 11:07:33 2026 +0330
+
+    Delete content/post/find_bip39_last_two_words.py
+
+[33mcommit b026470490f4dc6f63e9574edbadd12580d3cd1e[m
+Author:     anonymous <anonymous@users.noreply.github.com>
+AuthorDate: Tue Feb 3 10:39:12 2026 +0330
+Commit:     anonymous <anonymous@users.noreply.github.com>
+CommitDate: Tue Feb 3 10:53:33 2026 +0330
+
+    Fixing config
+
+[33mcommit f7043ba3ba2af75729dd79df33388ca22f99adc9[m
+Author:     Immanuel <Immanuel_K3nt@X>
+AuthorDate: Sat Nov 2 12:16:06 2024 +0330
+Commit:     Immanuel <Immanuel_K3nt@X>
+CommitDate: Sat Nov 2 12:16:06 2024 +0330
+
+    The Judgement Day #2
+
+[33mcommit 332a3fa21b2ee745a9169717aea26cbbdb69128b[m
+Author:     Immanuel <Immanuel_K3nt@X>
+AuthorDate: Sat Nov 2 12:08:04 2024 +0330
+Commit:     Immanuel <Immanuel_K3nt@X>
+CommitDate: Sat Nov 2 12:08:04 2024 +0330
+
+    The Judgement Day #1
+
+[33mcommit 094f4c5f3927e35d8c9813c111efd0b9e5777818[m
+Author:     Immanuel <Immanuel_K3nt@X>
+AuthorDate: Thu Oct 10 11:41:57 2024 +0330
+Commit:     Immanuel <Immanuel_K3nt@X>
+CommitDate: Thu Oct 10 12:13:04 2024 +0330
+
+    About Israel#3
+
+[33mcommit 25bce8b00bd4261a6acc045189380dd1eef5dd3b[m
+Author:     Immanuel <Immanuel_K3nt@X>
+AuthorDate: Thu Oct 10 01:41:41 2024 +0330
+Commit:     Immanuel <Immanuel_K3nt@X>
+CommitDate: Thu Oct 10 12:12:29 2024 +0330
+
+    About Israel#2
+
+[33mcommit e8c61e98a7082c10ad66ef1cd49a1271a00ed245[m
+Author:     Immanuel <Immanuel_K3nt@X>
+AuthorDate: Thu Oct 10 01:33:45 2024 +0330
+Commit:     Immanuel <Immanuel_K3nt@X>
+CommitDate: Thu Oct 10 12:10:53 2024 +0330
+
+    About Israel
+
+[33mcommit abcbbe4e6b62d26f752256b1983086790c328d60[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Thu Feb 16 14:03:12 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Thu Feb 16 14:03:12 2023 +0330
+
+    Mohamad Kian Hosseini#5
+
+[33mcommit 4070183c18859edba19deecf923abc4b21b4f139[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Thu Feb 16 13:59:44 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Thu Feb 16 13:59:44 2023 +0330
+
+    Mohamad Kian Hosseini#4
+
+[33mcommit 25057fb9cd091af82fac7554b85cca9209c1ce85[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Thu Feb 16 12:55:33 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Thu Feb 16 12:55:33 2023 +0330
+
+    Mohamad Kian Hosseini#3
+
+[33mcommit 6361678cbe3046c42eab280ab9cc39b37641e22a[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Thu Feb 16 12:25:51 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Thu Feb 16 12:25:51 2023 +0330
+
+    Mohamad Kian Hosseini#2
+
+[33mcommit 47f0f907156eb288984b24970763678143a8f12c[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Thu Feb 16 12:24:53 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Thu Feb 16 12:24:53 2023 +0330
+
+    Mohamad Kian Hosseini#1
+
+[33mcommit e9d4feea9daedbfdec6b32cfb4a7ef9ea3edf69c[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Thu Feb 16 01:31:24 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Thu Feb 16 01:31:24 2023 +0330
+
+    Savak#2
+
+[33mcommit d9855989b065cb2d08a8472c4766358d06298aa0[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Thu Feb 16 01:29:22 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Thu Feb 16 01:29:22 2023 +0330
+
+    Savak#1
+
+[33mcommit 6b125b2c23ca6db98b7c535e733c665fccc39441[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Mon Feb 13 02:23:33 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Mon Feb 13 02:23:33 2023 +0330
+
+    Intelligence and Religion#7
+
+[33mcommit 083260cae9097b24e7d90b8e06bb720b54c9d4c0[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Mon Feb 13 02:19:47 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Mon Feb 13 02:19:47 2023 +0330
+
+    Intelligence and Religion#6
+
+[33mcommit 7a174fd08b2a3bf11fbe628a27bea135ffefe15c[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Thu Feb 9 01:32:32 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Thu Feb 9 01:32:32 2023 +0330
+
+    Updating#018
+
+[33mcommit 10062605028c5d86baa53626369f29162c736647[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Thu Feb 9 00:58:18 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Thu Feb 9 00:58:18 2023 +0330
+
+    Shower Thoughts#08
+
+[33mcommit 41e47387c43e03ca9dc3ba7e9ce7e8d677eb306f[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Wed Feb 8 14:10:36 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Wed Feb 8 14:10:36 2023 +0330
+
+    Shower Thoughts#07
+
+[33mcommit a5b4e1dd8b7a7e3ef6121520300693bcc9295cee[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Tue Feb 7 12:19:31 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Tue Feb 7 12:19:31 2023 +0330
+
+    Shower Thoughts#06
+
+[33mcommit 1b7be00de064e5e8e3f82016618919f794e0ffe0[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Tue Feb 7 01:22:24 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Tue Feb 7 01:22:24 2023 +0330
+
+    Shower Thoughts#05
+
+[33mcommit 2f358ee3e7dd851f9480039691f75dd79777cd8a[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Mon Feb 6 01:19:36 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Mon Feb 6 01:19:36 2023 +0330
+
+    What is a Lie#03
+
+[33mcommit fb841141437042ad1044137de2ddef6500197161[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Mon Feb 6 01:18:18 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Mon Feb 6 01:18:18 2023 +0330
+
+    What is a Lie#02
+
+[33mcommit d40c0e90cdbf9feabf427632c8c1170a42179903[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Mon Feb 6 01:15:05 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Mon Feb 6 01:15:05 2023 +0330
+
+    What is a Lie#01
+
+[33mcommit 3f903a442bdb2312195575828fc1eb109a8faa83[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Fri Feb 3 14:32:55 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Fri Feb 3 14:32:55 2023 +0330
+
+    Shower Thoughts#04
+
+[33mcommit 252485213a7ab777d91ea5224b280dd4713abc15[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Fri Feb 3 14:15:59 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Fri Feb 3 14:15:59 2023 +0330
+
+    Shower Thoughts#03
+
+[33mcommit 53b8db484871cf76778beced48749847f8be57ab[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Fri Feb 3 13:27:24 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Fri Feb 3 13:27:24 2023 +0330
+
+    Updating#017
+
+[33mcommit 8e0427e24a6f0cb7eb38fc5d2e8e36511055c740[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Fri Feb 3 13:22:30 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Fri Feb 3 13:22:30 2023 +0330
+
+    Updating#016
+
+[33mcommit c821b61e62d2a02b06f72452cdd68122c8650892[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Fri Feb 3 13:16:39 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Fri Feb 3 13:16:39 2023 +0330
+
+    Updating#015
+
+[33mcommit 1e56fd570dca50521f1541c4a126a82020c06b33[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Fri Feb 3 13:14:01 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Fri Feb 3 13:14:01 2023 +0330
+
+    Updating#014
+
+[33mcommit 3fff4648143f6d675b7b4f701426467f86b04e44[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Wed Feb 1 15:11:01 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Wed Feb 1 15:11:01 2023 +0330
+
+    Updating#013
+
+[33mcommit e69fe8c08c6b15c021fbf8ad6bdcac1428ba3dc1[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Wed Feb 1 15:06:09 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Wed Feb 1 15:06:09 2023 +0330
+
+    Updating#012
+
+[33mcommit 1105e575cf4bd415713c57beb979201e6b254ad6[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Wed Feb 1 14:48:31 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Wed Feb 1 14:48:31 2023 +0330
+
+    Updating#011
+
+[33mcommit bb4d63c047019cc95494f0d7a573e55fd4121f00[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Mon Jan 30 18:18:59 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Mon Jan 30 18:18:59 2023 +0330
+
+    Updating#010
+
+[33mcommit b6f9c01be986fb7e11ed5d217f74f01919cb4f5d[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Mon Jan 30 18:15:22 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Mon Jan 30 18:15:22 2023 +0330
+
+    Updating#009
+
+[33mcommit 889ee1f741cd1f9bfb1ab1f799ef3ffeb3f7da4e[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Mon Jan 30 18:13:36 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Mon Jan 30 18:13:36 2023 +0330
+
+    Updating#008
+
+[33mcommit a9d2598fced57fe075b86b3f9e184105c84d4f92[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Mon Jan 30 18:10:49 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Mon Jan 30 18:10:49 2023 +0330
+
+    Updating#007
+
+[33mcommit 624acad6fb7ddbd3f334560ce270b46b205c6a4c[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Mon Jan 30 11:33:57 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Mon Jan 30 11:33:57 2023 +0330
+
+    Updating#006
+
+[33mcommit fdd55d82209ddde5aa5b3f11f8af04197ecd401b[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Mon Jan 30 10:34:56 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Mon Jan 30 10:34:56 2023 +0330
+
+    Updating#005
+
+[33mcommit 6edde71e64bb0ea27cd5d35e5e7d889d38b9f7b4[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sun Jan 29 14:02:08 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sun Jan 29 14:02:08 2023 +0330
+
+    Shower Thoughts#01
+
+[33mcommit 5442f017fef128e414905a66e4b1c4c284d65e6d[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sun Jan 29 12:34:14 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sun Jan 29 12:34:14 2023 +0330
+
+    USArmy Strike #3
+
+[33mcommit ff0ecf3c5713bcb2bf696066d53b36e404609bbc[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sun Jan 29 04:10:46 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sun Jan 29 04:10:46 2023 +0330
+
+    Updating#004
+
+[33mcommit 488430b884f3b6d20ee6a9470c6d8e4703d204c2[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sun Jan 29 04:04:51 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sun Jan 29 04:04:51 2023 +0330
+
+    Updating#003
+
+[33mcommit 8e6eba7340fd87f80501cda01de6142e6033a21a[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sun Jan 29 03:24:17 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sun Jan 29 03:24:17 2023 +0330
+
+    Updating#002
+
+[33mcommit c0b87c3e32e34594ecb07d14701d0725b599be9a[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sun Jan 29 03:19:21 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sun Jan 29 03:19:21 2023 +0330
+
+    Updating#001
+
+[33mcommit d7e17c58a93559dcae18d0dca6c410095047dd73[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sun Jan 29 02:44:14 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sun Jan 29 02:44:14 2023 +0330
+
+    Prince Reza Pahlavi is my representative#14
+
+[33mcommit c14e8f85f7a3a55b373c4d2ea1e819d395d37a1e[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sun Jan 29 02:28:59 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sun Jan 29 02:28:59 2023 +0330
+
+    Prince Reza Pahlavi is my representative#13
+
+[33mcommit ac0dd26fc86d7b4a58233fa1c25c1c43c0ae56fc[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sun Jan 29 02:24:35 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sun Jan 29 02:24:35 2023 +0330
+
+    Shower Thoughts#01
+
+[33mcommit 8d051a1dd4a3f99372e184cc90f33e656d9ef2ca[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sun Jan 29 00:44:19 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sun Jan 29 00:44:19 2023 +0330
+
+    Updating
+
+[33mcommit 9346b36fb0327ee6cccb4275390682d68d6dc617[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sun Jan 29 00:31:51 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sun Jan 29 00:31:51 2023 +0330
+
+    Prince Reza Pahlavi is my representative#12
+
+[33mcommit 4a95a5c093313b99cb2f0197366eff3573ec47bf[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sat Jan 28 03:25:32 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sat Jan 28 03:25:32 2023 +0330
+
+    Prince Reza Pahlavi is my representative#11
+
+[33mcommit 8eaa1cb16b40e67790aafd254acef7596b7366cd[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sat Jan 28 03:02:02 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sat Jan 28 03:02:02 2023 +0330
+
+    Prince Reza Pahlavi is my representative#10
+
+[33mcommit 376a4ff4761f5089da33293465a24b22a1b35c82[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sat Jan 28 02:47:52 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sat Jan 28 02:47:52 2023 +0330
+
+    Prince Reza Pahlavi is my representative#9
+
+[33mcommit 4580a173687907ddc3aae588d42a9812d272d2bb[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Fri Jan 27 01:54:37 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Fri Jan 27 01:54:37 2023 +0330
+
+    Prince Reza Pahlavi is my representative#8
+
+[33mcommit 09f875b04ea844c8860665e61208c58ad0dbe75c[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Fri Jan 27 01:39:35 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Fri Jan 27 01:39:35 2023 +0330
+
+    Prince Reza Pahlavi is my representative#7
+
+[33mcommit f41a45083b0caafa2465e1e83c480c4626aeba4b[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Fri Jan 27 01:37:28 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Fri Jan 27 01:37:28 2023 +0330
+
+    Prince Reza Pahlavi is my representative#6
+
+[33mcommit 2791351262c7c13eaafce062d276aea2c44811a8[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Fri Jan 27 01:24:38 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Fri Jan 27 01:24:38 2023 +0330
+
+    Prince Reza Pahlavi is my representative#5
+
+[33mcommit 22b8f376ad25c68a6a980d845d3226422b108219[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Fri Jan 27 01:21:23 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Fri Jan 27 01:21:23 2023 +0330
+
+    Prince Reza Pahlavi is my representative#4
+
+[33mcommit ae83c29d207501f1d0d9f72efbb2fb4b5ecdcc98[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Thu Jan 26 17:05:15 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Thu Jan 26 17:05:15 2023 +0330
+
+    Prince Reza Pahlavi is my representative#3
+
+[33mcommit 1b68ed3c0024b157fe0616407a29e44042d81b09[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Wed Jan 25 13:29:24 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Wed Jan 25 13:29:24 2023 +0330
+
+    Prince Reza Pahlavi is my representative#2
+
+[33mcommit 013ffae558a378adb987ba575b6d1818ef812eed[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Wed Jan 25 13:24:20 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Wed Jan 25 13:24:20 2023 +0330
+
+    Prince Reza Pahlavi is my representative#1
+
+[33mcommit 813d85cdbf23885ff1602145a3f017d488bde6ee[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Mon Jan 16 17:00:40 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Mon Jan 16 17:00:40 2023 +0330
+
+    Why It Is So Hard to Change Your Mind#3
+
+[33mcommit c382a77154035a8e0b60a1632d0ba12317305f7c[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Mon Jan 16 14:18:26 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Mon Jan 16 14:18:26 2023 +0330
+
+    Why It Is So Hard to Change Your Mind#2
+
+[33mcommit 4472926b55723e938631b108f6553da007bdc1ee[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Mon Jan 16 14:16:06 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Mon Jan 16 14:16:06 2023 +0330
+
+    Why It Is So Hard to Change Your Mind#1
+
+[33mcommit a03aaa5d58a54d7f9c9dfab7210bbc93a1dee8f7[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sat Jan 14 12:30:32 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sat Jan 14 12:30:32 2023 +0330
+
+    Intelligence and Religion#5
+
+[33mcommit fb5a815d8dc57863c5f6f58d6ac555b499ef7e5a[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sat Jan 14 02:26:26 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sat Jan 14 02:26:26 2023 +0330
+
+    Intelligence and Religion#4
+
+[33mcommit 886962f1088d70e8e7cfdd02b32a4718a0bc3aa1[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Fri Jan 13 14:15:39 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Fri Jan 13 14:15:39 2023 +0330
+
+    Intelligence and Religion#3
+
+[33mcommit b4dd84a891645c9074a92d6caa421b07d9e87a02[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Fri Jan 13 14:13:44 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Fri Jan 13 14:13:44 2023 +0330
+
+    Intelligence and Religion#۲
+
+[33mcommit a8ac6155d55dc45f1e24b563a407d112b8140081[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Fri Jan 13 13:44:00 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Fri Jan 13 13:44:00 2023 +0330
+
+    Intelligence and Religion#1
+
+[33mcommit 0d61fead4ae95e9cd39de1dcf2365f578e9844b3[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Wed Jan 11 12:38:37 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Wed Jan 11 12:38:37 2023 +0330
+
+    Reconfiguration#1
+
+[33mcommit 9da0964152b92622e03a74f4460e98a04dfa911a[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sat Jan 7 14:15:59 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sat Jan 7 14:15:59 2023 +0330
+
+    Islam Is Evil Religion#3
+
+[33mcommit 98ccc07467fb753125ad05235b25d6c2e23cb268[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sat Jan 7 14:14:46 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sat Jan 7 14:14:46 2023 +0330
+
+    Islam Is Evil Religion#2
+
+[33mcommit 594d312f870a1f3065bd38f3853b6ea346bb73ee[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Fri Jan 6 13:06:24 2023 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Fri Jan 6 13:06:24 2023 +0330
+
+    Islam Is Evil Religion#1
+
+[33mcommit 8873d90672965d4803469711fca7c98375fe9bc6[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Thu Dec 29 15:26:36 2022 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Thu Dec 29 15:26:36 2022 +0330
+
+    Mohamad Moradi#1
+
+[33mcommit 60d7c13ae744b511bfbf6ee83dfabdba25b7fee3[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sat Dec 24 12:19:23 2022 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sat Dec 24 12:19:23 2022 +0330
+
+    Some Thoughts On Iran Revolution#2
+
+[33mcommit 43e4d904f19e04fe0d350666362151651154a4a2[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sat Dec 24 12:17:39 2022 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sat Dec 24 12:17:39 2022 +0330
+
+    Some Thoughts On Iran Revolution#1
+
+[33mcommit d683f6b93626c3fad8744944daf89f7a63fd70f7[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Fri Dec 16 14:39:41 2022 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Fri Dec 16 14:39:41 2022 +0330
+
+    About Islam #1
+
+[33mcommit 5b8e11f1be784e3b8511512fd02dc3acd330ba2f[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Wed Dec 14 02:19:45 2022 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Wed Dec 14 02:19:45 2022 +0330
+
+    Supernatural World #3
+
+[33mcommit 8a3ea16211dd5e8247af9f67570435545c71c79d[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Wed Dec 14 02:07:50 2022 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Wed Dec 14 02:07:50 2022 +0330
+
+    Supernatural World #2
+
+[33mcommit 01dbd452f6dc95b85b545b45ec1d2d9a05d91d13[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Tue Dec 13 16:00:41 2022 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Tue Dec 13 16:00:41 2022 +0330
+
+    Supernatural World #1
+
+[33mcommit 1d2e525f1c44ba77f42308a8193759b4dce8ff2a[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Mon Dec 12 11:47:27 2022 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Mon Dec 12 11:47:27 2022 +0330
+
+    Why don't I believe in any religion 3#7
+
+[33mcommit a9a205d95c72ad5813288259a1070af2bcf2553a[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Mon Dec 12 01:31:40 2022 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Mon Dec 12 01:31:40 2022 +0330
+
+    Why don't I believe in any religion 3#6
+
+[33mcommit 8f1f611e8e2533043fd384ef3f09858b52edd101[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Mon Dec 12 01:29:30 2022 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Mon Dec 12 01:29:30 2022 +0330
+
+    Why don't I believe in any religion 3#5
+
+[33mcommit 34c541b6faa10ca4f329080f76176e56ac8e99ac[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Mon Dec 12 01:00:49 2022 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Mon Dec 12 01:00:49 2022 +0330
+
+    Why don't I believe in any religion 3#4
+
+[33mcommit e0edb32f9afd649715c571ad575c184336e658c2[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sun Dec 11 14:25:00 2022 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sun Dec 11 14:25:00 2022 +0330
+
+    Why don't I believe in any religion 3#3
+
+[33mcommit c842949f9d579c291e720d872d8a412c8053e74f[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sun Dec 11 12:30:00 2022 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sun Dec 11 12:30:00 2022 +0330
+
+    Why don't I believe in any religion 3#1
+
+[33mcommit a38deee12abda42941a4df6194ec327c5a2b9b59[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sat Dec 10 12:58:33 2022 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sat Dec 10 12:58:33 2022 +0330
+
+    Why don't I believe in any religion 2#3
+
+[33mcommit e5f74240a0bd27ef9f6040b6c691227e0f5b7af2[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sat Dec 10 12:35:20 2022 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sat Dec 10 12:35:20 2022 +0330
+
+    Why don't I believe in any religion 2#2
+
+[33mcommit db0dcf71902334a51438ff085cd13895ea1c1d54[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Sat Dec 10 12:02:33 2022 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Sat Dec 10 12:02:33 2022 +0330
+
+    Why don't I believe in any religion 2#1
+
+[33mcommit 63633b29d2db63c25d4ddbcf320082dd5e669d06[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Fri Dec 9 02:03:36 2022 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Fri Dec 9 02:03:36 2022 +0330
+
+    USArmy Strike #2
+
+[33mcommit ab0f8047521d8cf7370b95042ca7705f87a76572[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Fri Dec 9 01:50:36 2022 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Fri Dec 9 01:50:36 2022 +0330
+
+    USArmy Strike #1
+
+[33mcommit 19a7d1cfc783007aa5e749dd41ef88202a8edabd[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Thu Dec 8 12:53:38 2022 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Thu Dec 8 12:53:38 2022 +0330
+
+    Fixed Fav Icon #2
+
+[33mcommit e6128f6b54cb5b5674f0d164150da66108b2c83b[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Thu Dec 8 12:43:58 2022 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Thu Dec 8 12:43:58 2022 +0330
+
+    Fixed Fav Icon #1
+
+[33mcommit bb37fa61120b958bc6050e9bf3603230dfcfeee3[m
+Author:     Immanuel <private.addr@outlook.com>
+AuthorDate: Thu Dec 8 00:42:15 2022 +0330
+Commit:     Immanuel <private.addr@outlook.com>
+CommitDate: Thu Dec 8 00:42:15 2022 +0330
+
+    Why don't I believe in any religion 1#1
+
+[33mcommit 61868601f333129d3939d6ebeb7ef6f4e3274074[m
+Author:     Eman <private.addr@outlook.com>
+AuthorDate: Wed Dec 7 10:37:15 2022 +0330
+Commit:     Eman <private.addr@outlook.com>
+CommitDate: Wed Dec 7 10:37:15 2022 +0330
+
+    Starting...
+
+[33mcommit 006b807c6e1fc1e03411c6372143c1ce3a95fba3[m
+Author:     for-liberty <119358171+for-liberty@users.noreply.github.com>
+AuthorDate: Wed Dec 7 10:35:48 2022 +0330
+Commit:     GitHub <noreply@github.com>
+CommitDate: Wed Dec 7 10:35:48 2022 +0330
+
+    Initial commit
