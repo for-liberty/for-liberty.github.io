@@ -28,7 +28,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 ---
-![Iran and Israel](/images/the-judgement-day/00.jpg#center)
+[![Iran and Israel - Photo by Arash](/images/the-judgement-day/00.jpg#center)](https://x.com/ArashBanian/status/2022752564421202044)
 
 چند هفته پیش بنیامین نتانیاهو پیامی پر از امید برای مردم ایران فرستاد. بی‌بی گفت:
 
